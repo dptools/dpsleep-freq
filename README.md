@@ -3,6 +3,7 @@ DPSleep Pipeline Step #2 (frequency analysis)
 
 ## Table of contents
 1. [Requirements](#requirements)
+2. [Installation](#installation)
 2. [Usage examples](#usage-examples)
 
 ### Requirements
@@ -10,11 +11,11 @@ DPSleep Pipeline Step #2 (frequency analysis)
 
 - The output is saved as mtl2_YYYY_MM_DD.mat per day.
 
-Then, you may choose one of the following options:
+- After running this pipeline you should run dpsleep-act.
 
-##### Option 1 - Installation
+##### Installation
 
-To install FREQ on your system, run the following commands:
+To install dpsleep-freq on your system, run the following commands:
 ```bash
 git clone git@github.com:harvard-nrg/dpsleep-freq.git 
 cd freq
