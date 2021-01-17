@@ -22,15 +22,6 @@ cd freq
 pip install -r requirements.txt
 ```
 
-##### Option 2 - Module Load (Within NCF only)
-
-To load FREQ module on NCF without an installation:
-```bash
-module load miniconda3
-module load matlab/R2017a-fasrc01
-module load freq/master-ncf
-```
-
 ### Usage examples
 
 ```bash
