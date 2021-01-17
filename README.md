@@ -13,7 +13,7 @@ DPSleep Pipeline Step #2 (frequency analysis)
 
 - After running this pipeline you should run dpsleep-act.
 
-##### Installation
+### Installation
 
 To install dpsleep-freq on your system, run the following commands:
 ```bash
