@@ -1,6 +1,5 @@
 DPSleep Pipeline Step #2 (frequency analysis)
 =========
-[![build status](https://ncfcode.rc.fas.harvard.edu/phoenix/freq/badges/master/build.svg)](https://ncfcode.rc.fas.harvard.edu/phoenix/freq/commits/master)
 
 ## Table of contents
 1. [Requirements](#requirements)
@@ -17,7 +16,7 @@ Then, you may choose one of the following options:
 
 To install FREQ on your system, run the following commands:
 ```bash
-git clone git@ncfcode.rc.fas.harvard.edu:phoenix/freq .
+git clone git@github.com:harvard-nrg/dpsleep-freq.git 
 cd freq
 pip install -r requirements.txt
 ```
