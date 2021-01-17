@@ -7,7 +7,7 @@ DPSleep Pipeline Step #2 (frequency analysis)
 2. [Usage examples](#usage-examples)
 
 ### Requirements
-- To run the freq pipeline, make sure that you have time files saved in mtl1. To do so, you need to run the extract pipeline first.
+- To run the freq pipeline, make sure that you have time files saved in mtl1. To do so, you need to run the dpsleep-extract pipeline first.
 
 - The output is saved as mtl2_YYYY_MM_DD.mat per day.
 
